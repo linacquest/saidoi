@@ -4,7 +4,7 @@
 **SAIDOI** (Standard for AI Deployment, Optimization, and Integration) is a comprehensive framework aimed at making AI systems more accessible and user-friendly, particularly for users with limited technical expertise. By focusing on Human-Computer Interaction (HCI) principles and AI explainability, SAIDOI seeks to bridge the gap between advanced AI technologies and their practical applications.
 
 # Paper
-An article is currently under review in the Journal "Artificial Intelligence" by Elsevier (https://www.sciencedirect.com/journal/artificial-intelligence). Please stay tunned.
+An article is currently under review in the Journal "Artificial Intelligence" by Elsevier (https://www.sciencedirect.com/journal/artificial-intelligence). Please stay tuned.
 
 # Core Principles
 ### Universality: Ensuring AI systems are accessible to a wide range of users.
