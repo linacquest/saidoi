@@ -8,6 +8,7 @@ An article is currently under review in the Journal "Expert Systems with Applica
 
 # Core Principles
 ### Universality: Ensuring AI systems are accessible to a wide range of users.
+### User-Centricity: Prioritizing end-user understanding, ease of interaction, and accessibility
 ### Transparency: Making AI processes and decisions understandable.
 ### Modularity: Designing systems with interchangeable and scalable components.
 ### Scalability: Facilitating the growth and adaptation of AI systems to meet evolving needs.
